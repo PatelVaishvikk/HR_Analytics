@@ -41,6 +41,14 @@ This project showcases an HR Analytics Dashboard built in Power BI. The dashboar
 
 ---
 
+## Key Metrics
+Total Employees: 1470
+Attrition Rate: 16.1%
+- Insights
+- High Attrition in Life Sciences (38%): Indicates a need to focus on retention in this educational background.
+- Age Group 26-35: Shows the highest attrition, suggesting potential issues for employees in this age bracket.
+- Salary Range Upto 5k: Majority of attrition occurs among employees in the lowest salary range.
+
 ## How to Use
 1. Clone this repository:
    ```bash
