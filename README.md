@@ -44,4 +44,4 @@ This project showcases an HR Analytics Dashboard built in Power BI. The dashboar
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PatelVaishvikk/HR_Analytics
